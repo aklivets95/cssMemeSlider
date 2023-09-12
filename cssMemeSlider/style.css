@@ -154,7 +154,7 @@ input[type=radio] {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     transition: all 0.4s;
     opacity: 0;
 }
